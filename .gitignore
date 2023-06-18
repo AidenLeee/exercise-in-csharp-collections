@@ -38,3 +38,8 @@ Desktop.ini
 .idea
 # out 文件夹
 out
+
+# about C#
+*.sln
+Datastructure/bin
+Datastructure/obj
